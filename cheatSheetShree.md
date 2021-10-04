@@ -33,5 +33,23 @@ ___
 
 This is a [link to Google](www.google.com)
 
+![catImage](/cat.jpg)
 
+There is an error in `print('hello world")` line of code
 
+```dart
+void main(){
+ int a = 1;
+ var b = 3;
+ print("$a + $b = $(a+b)");
+ print("Hello World");
+}
+```
+|Items |Quantity|
+|------|--------|
+|Apples|2 Dozen |
+|Pomegrantes|2 Dozen|
+
+* [x] Task 1
+* [ ] Task 2
+* [x] Task 3
