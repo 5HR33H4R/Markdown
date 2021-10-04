@@ -23,8 +23,8 @@ ___
   
 1. potato
 1. carrots
-    1. tomato
-    1. beetroot
+    1. tomatoes
+    1. beetroots
     
 > Quote
 
