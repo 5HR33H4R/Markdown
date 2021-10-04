@@ -30,4 +30,27 @@ ____
 
 this is a [link to Google](www.google.com)
  
-   
+![dog image](/dog.jpg)
+
+there is an object in `int i=6/0`
+
+```dart
+void main(){
+ int a=3;
+ int b=6;
+ print("$a+$b=$(a+b)");
+ print("Hello world")
+ }
+ ```
+ |items       |quantity
+ |------------|--------|
+ |promograntes|2 dozen |
+ |apples|3dozen|
+ 
+ * [x] task1
+ * [ ] task2 
+ * [x] task3
+
+
+ 
+ 
