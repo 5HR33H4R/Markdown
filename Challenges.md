@@ -18,3 +18,24 @@ void main() {
 }
 ````
 ![Challenge 1](/image_2021-10-07_151559.png)
+
+> Challenge 2: Make it compile
+Given the following code:
+````dart
+age = 16;
+print(age);
+age = 30;
+print(age);
+````
+> Modify the first line so that the code compiles.
+Did you use var, int, final or const?
+
+````dart
+void main(){
+int age = 16;
+print(age);  
+age = 30;
+print(age);
+}
+````
+![Challenge 2](/)
