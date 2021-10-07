@@ -172,4 +172,6 @@ const multiplier = 5;
 final summary = '$number \u00D7 $multiplier
 = ${number * multiplier}';
 ````
+10 x 5 = 50
+
 
