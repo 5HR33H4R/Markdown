@@ -54,7 +54,9 @@ const answer2 = (x * 100) + (y * 100);
 const answer3 = (x * 100) + (y / 10);
 ````
 answer1 = 4610
+
 answer2 = 5600
+
 answer3 = 4601
 
 ![Challenge 3](/image_2021-10-07_153154.png)
@@ -162,7 +164,7 @@ What’s the type of value?
 const value = 10 / 2;
 ````
 
-Challenge 6: In summary
+> Challenge 6: In summary
 What is the value of the constant named summary?
 ````dart
 const number = 10;
