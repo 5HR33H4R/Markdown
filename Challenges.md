@@ -126,4 +126,48 @@ void main(){
   print((hwkMark + attendMark + xamMark).round());
 }
 ````
-![Challenge 1](/)
+![Challenge 1](/image_2021-10-07_155948.png)
+
+>Challenge 2: Same same, but different
+This string has two flags that look the same. But
+they aren’t! One of them is the flag of Chad and
+the other is the flag of Romania.
+````dart
+const twoCountries = '🇹🇩🇷🇴';
+````
+> Which is which?
+
+
+>Challenge 3: How many?
+Given the following string:
+````dart
+const vote = 'Thumbs up! 
+````
+>How many UTF-16 code units are there?
+How many Unicode code points are there?
+How many Unicode grapheme clusters are
+there?
+
+
+>Challenge 4: Find the error
+What is wrong with the following code?
+````dart
+const name = 'Ray';
+name += ' Wenderlich';
+````
+
+> Challenge 5:Whattype?
+What’s the type of value?
+````dart
+const value = 10 / 2;
+````
+
+Challenge 6: In summary
+What is the value of the constant named summary?
+````dart
+const number = 10;
+const multiplier = 5;
+final summary = '$number \u00D7 $multiplier
+= ${number * multiplier}';
+````
+
