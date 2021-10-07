@@ -161,10 +161,8 @@ const vote = 'Thumbs up!
 ````
 >How many UTF-16 code units are there?
 
-10
 >How many Unicode code points are there?
 
-10
 >How many Unicode grapheme clusters are there?
 
 ````dart
@@ -176,6 +174,7 @@ print(vote.runes.length);
 print(vote.characters.length);
 }
 ````
+![Challenge 3](/image_2021-10-07_183904.png)
 ___
 >Challenge 4: Find the error
 >
