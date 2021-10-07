@@ -57,5 +57,22 @@ answer1 = 4610
 answer2 = 5600
 answer3 = 4601
 
+![Challenge 3](/image_2021-10-07_153154.png)
 
+> Challenge 4: Average rating
+Declare three constants called rating1, rating2
+and rating3 of type double and assign each a
+value. Calculate the average of the three and
+store the result in a constant named
+averageRating.
 
+````dart
+void main(){
+ double rating1 = 4.5;
+ double rating2 = 4;
+ double rating3 = 4.7;
+ double averageRating = (rating1+rating2+rating3)/3;
+ print(averageRating);
+}
+````
+![Challenge 4 ](/)
