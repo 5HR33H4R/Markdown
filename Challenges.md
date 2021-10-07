@@ -75,4 +75,32 @@ void main(){
  print(averageRating);
 }
 ````
-![Challenge 4 ](/)
+![Challenge 4 ](/image_2021-10-07_153728.png)
+
+>Challenge 5: Quadratic equations
+A quadratic equation is something of the form
+a⋅x² + b⋅x + c = 0.
+The values of x which satisfy this can be solved
+by using the equation
+x = (-b ± sqrt(b² - 4⋅a⋅c)) / (2⋅a).
+Declare three constants named a, b and c of type
+double. Then calculate the two values for x using
+the equation above (noting that the ± means plus
+or minus, so one value of x for each). Store the
+results in constants called root1 and root2 of
+type double. 
+
+````dart
+import 'dart:math';
+void main(){
+  double a = 4;
+  double b = 16;
+  double c = 16;
+  double root1 =(-b + sqrt(b*b - 4*a*c)) / (2*a);
+  double root2 =(-b - sqrt(b*b - 4*a*c)) / (2*a);
+  print(root1);
+  print(root2);
+}
+````
+
+
