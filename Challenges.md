@@ -167,6 +167,15 @@ const vote = 'Thumbs up!
 10
 >How many Unicode grapheme clusters are there?
 
+````dart
+import 'package:characters/characters.dart';
+void main() {
+const vote = 'Thumbs up! 👍🏿';
+print(vote.codeUnits.length);
+print(vote.runes.length);
+print(vote.characters.length);
+}
+````
 ___
 >Challenge 4: Find the error
 >
