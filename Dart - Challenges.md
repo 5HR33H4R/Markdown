@@ -12,7 +12,13 @@ void main()
 {
   
   int myAge = 19;
-  
+  const firstName = 'Bob';
+if (firstName == 'Bob') {
+const lastName = 'Smith';
+} else if (firstName == 'Ray') {
+const lastName = 'Wenderlich';
+}
+final fullName = firstName + ' ' + lastName;
   int dogs = 0;
   
   dogs += 1;
@@ -43,4 +49,4 @@ const answer1 = (x * 100) + y;
 const answer2 = (x * 100) + (y * 100);
 const answer3 = (x * 100) + (y / 10);
 
-![Challenge image](/Challenge 3.png)
+![Challenge image](/care.png)
