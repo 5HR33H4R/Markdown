@@ -210,3 +210,37 @@ final summary = '$number \u00D7 $multiplier
 ![Challege 6](/image_2021-10-07_162019.png)
 ___
 ## Chapter 4: Control Flow
+
+>Challenge 1: Find the error
+>
+>What’s wrong with the following code?
+```dart
+const firstName = 'Bob';
+if (firstName == 'Bob') {
+const lastName = 'Smith';
+} else if (firstName == 'Ray') {
+const lastName = 'Wenderlich';
+}
+final fullName = firstName + ' ' + lastName;
+```
+Since lastName scope is declared within the if and elseif statement, we cant call it outside the scope.
+
+___
+>Challenge 2: Boolean challenge
+>
+>In each of the following statements, what is the
+value of the Boolean expression?
+```dart
+true && true
+false || false
+(true && 1 != 2) || (4 > 3 && 100 < 1)
+((10 / 2) > 3) && ((10 % 2) == 0)
+```
+true
+
+false
+
+true
+
+true
+
