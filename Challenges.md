@@ -244,3 +244,37 @@ true
 
 true
 
+![Challenge 2](/image_2021-10-09_175720.png)
+
+___
+>Challenge 3: Next power of two
+>
+>Given a number, determine the next power of two above or equal to that number. Powers of two are the numbers in the sequence of 2¹, 2², 2³, and so on. You may also recognize the series as 1, 2, 4, 8, 16, 32, 64..
+
+
+>Challenge 4: Fibonacci
+>
+>Calculate the nth Fibonacci number. The
+Fibonacci sequence starts with 1, then 1 again,
+and then all subsequent numbers in the
+sequence are simply the previous two values in
+the sequence added together (1, 1, 2, 3, 5, 8...).
+
+
+>Challenge 5: How many times?
+>
+>In the following for loop, what will be the value
+of sum, and how many iterations will happen?
+```dart
+var sum = 0;
+for (var i = 0; i <= 5; i++) {
+sum += i;
+}
+```
+> Challenge 6: The final countdown
+>
+>Print a countdown from 10 to 0.
+
+>Challenge 7: Print a sequence
+>
+>Print the sequence 0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0.
