@@ -6,27 +6,8 @@ called dogs and set that equal to the number of
 dogs you own. Then imagine you bought a new
 puppy and increment the dogs variable by one.
 
-```Dart
-void main()
-  
-{
-  
-  int myAge = 19;
-  const firstName = 'Bob';
-if (firstName == 'Bob') {
-const lastName = 'Smith';
-} else if (firstName == 'Ray') {
-const lastName = 'Wenderlich';
-}
-final fullName = firstName + ' ' + lastName;
-  int dogs = 0;
-  
-  dogs += 1;
-  
-  print(dogs);
-  
-}
-```
+![challenge image](/Chapter2challenge1.png)
+
 > Challenge 2 - Make it compile : 
 > Given the following code:
 age = 16;
