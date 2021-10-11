@@ -17,6 +17,8 @@ print(age);
 Modify the ﬁrst line so that the code compiles.
 Did you use var , int , ﬁnal or const ?
 
+![challenge image](/Chapter2challenge2.png)
+
 ```Dart
 int,var
 ```
