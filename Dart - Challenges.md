@@ -33,3 +33,12 @@ const answer2 = (x * 100) + (y * 100);
 const answer3 = (x * 100) + (y / 10);
 
 ![Challenge image](/Chapter1challenge3.png)
+
+> Challenge 4 : Average Rating
+> Declare three constants called rating1 , rating2
+and rating3 of type double and assign each a
+value. Calculate the average of the three and
+store the result in a constant named
+averageRating .
+
+![Challenge image](/Chapter2challenge4.png)
