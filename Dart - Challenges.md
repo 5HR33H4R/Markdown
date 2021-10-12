@@ -54,3 +54,5 @@ the equation above (noting that the ± means plus
 or minus, so one value of x for each). Store the
 results in constants called root1 and root2 of
 type double.
+
+![challenge image](/Chapter2challenge5.png)
