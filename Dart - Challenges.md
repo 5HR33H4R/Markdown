@@ -42,3 +42,15 @@ store the result in a constant named
 averageRating .
 
 ![Challenge image](/Chapter2challenge4.png)
+
+> Challenge 5 : Quadratic Equation
+> A quadratic equation is something of the form
+a⋅x² + b⋅x + c = 0 .
+The values of x which satisfy this can be solved
+by using the equationx = (-b ± sqrt(b² - 4⋅a⋅c)) / (2⋅a) .
+Declare three constants named a , b and c of type
+double . Then calculate the two values for x using
+the equation above (noting that the ± means plus
+or minus, so one value of x for each). Store the
+results in constants called root1 and root2 of
+type double.
