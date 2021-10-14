@@ -71,3 +71,13 @@ Calculate her grade as an integer percentage
 rounded down.
 
 ![challenge image](/Chapter3challenge1.png)
+
+> Challenge 4 : Find the Error
+> What is wrong with the following code?
+```Dart
+const name = 'Ray';
+name += ' Wenderlich';
+```
+
+> once value is assign in const we can't change the value.
+
