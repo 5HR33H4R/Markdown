@@ -81,3 +81,10 @@ name += ' Wenderlich';
 
 > once value is assign in const we can't change the value.
 
+> Challenge 5 : What type?
+> What's the type of value?
+```Dart
+const value = 10 / 2;
+```
+
+![challenge image](/Chapter3challenge5.png)
