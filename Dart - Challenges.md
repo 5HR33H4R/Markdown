@@ -88,3 +88,12 @@ const value = 10 / 2;
 ```
 
 ![challenge image](/Chapter3challenge5.png)
+
+> Challenge 6 : In Summary
+> What is the value of the constant named summary ?
+```Dart
+const number = 10;
+const multiplier = 5;
+ﬁnal summary = '$number \u00D7 $multiplier = ${number * multiplier}';
+```
+![challenge image](/Chapter3challenge6.png)
