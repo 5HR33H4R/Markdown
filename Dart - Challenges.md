@@ -97,3 +97,18 @@ const multiplier = 5;
 ﬁnal summary = '$number \u00D7 $multiplier = ${number * multiplier}';
 ```
 ![challenge image](/Chapter3challenge6.png)
+
+
+# Chapter 4 - Control Flow
+
+> Challenge 1 : Find the error
+> const ﬁrstName = 'Bob';
+if (ﬁrstName == 'Bob') {
+const lastName = 'Smith';
+} else if (ﬁrstName == 'Ray') {
+const lastName = 'Wenderlich';
+}
+ﬁnal fullName = ﬁrstName + ' ' + lastName;
+
+### const 
+> Once we assign a value we can't change later
